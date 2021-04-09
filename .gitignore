@@ -54,20 +54,24 @@ dkms.conf
 *.csproj
 #*.user
 
-packages\
+packages/
 
-FromRepl\obj
-FromRepl\bin
-FromRepl\Properties
+FromRepl/obj
+FromRepl/bin
+FromRepl/Properties
 
-GRCCRep\obj
-GRCCRep\bin
-GRCCRep\Properties
+GRCCRep/obj
+GRCCRep/bin
+GRCCRep/Properties
 
-Replication\obj
-Replication\bin
-Replication\Properties
+Replication/obj
+Replication/bin
+Replication/Properties
 
-RepService\obj
-RepService\bin
-RepService\Properties
+RepService/obj
+RepService/bin
+RepService/Properties
+
+test_connection_DB/obj
+test_connection_DB/bin
+test_connection_DB/Properties
